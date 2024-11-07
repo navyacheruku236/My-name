@@ -1,3 +1,3 @@
 # my-name
-This is my first Git repository 
-name-navyacheruku
+This is my first Git repository.
+Name-navyacheruku
